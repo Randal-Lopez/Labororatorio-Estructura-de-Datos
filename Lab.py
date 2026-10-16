@@ -1,3 +1,8 @@
+####Equipo###
+###Randal Armando Lopez Amaya Codigo: U20250372###
+###Jose Brissvey Calderon Greande Codigo: U2025###
+
+
 from datetime import datetime
 
 # Listas que se utilizan para guardar los datos del programa.
